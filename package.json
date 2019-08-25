@@ -12,8 +12,15 @@
   "bugs": {
     "url": "https://github.com/szgabsz91/eslint-config/issues"
   },
-  "repository": "https://github.com/szgabsz91/eslint-config",
-  "author": "szgabsz91",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/szgabsz91/eslint-config"
+  },
+  "author": {
+    "name": "Gabor Szabo",
+    "email": "szgabsz91@gmail.com",
+    "url": "https://github.com/szgabsz91"
+  },
   "license": "MIT",
   "publishConfig": {
     "access": "public"
