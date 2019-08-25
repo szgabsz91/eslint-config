@@ -2,6 +2,16 @@
   "name": "@szg/eslint-config",
   "version": "1.0.1",
   "description": "ESLint config for the @szg scoped packages",
+  "keywords": [
+    "eslint",
+    "prettier",
+    "vanillajs",
+    "angularjs"
+  ],
+  "homepage": "https://github.com/szgabsz91/eslint-config",
+  "bugs": {
+    "url": "https://github.com/szgabsz91/eslint-config/issues"
+  },
   "repository": "https://github.com/szgabsz91/eslint-config",
   "author": "szgabsz91",
   "license": "MIT",
