@@ -8,6 +8,10 @@
   "publishConfig": {
     "access": "public"
   },
+  "files": [
+    "vanillajs.js",
+    "angularjs.js"
+  ],
   "engineStrict": true,
   "engines": {
     "node": ">=12.8.1",
