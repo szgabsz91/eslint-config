@@ -1,6 +1,6 @@
 {
   "name": "@szg/eslint-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ESLint config for the @szg scoped packages",
   "keywords": [
     "eslint",
