@@ -1,6 +1,6 @@
 {
   "name": "@szg/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint config for the @szg scoped packages",
   "repository": "https://github.com/szgabsz91/eslint-config",
   "author": "szgabsz91",
