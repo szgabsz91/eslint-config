@@ -9,3 +9,10 @@ install:
 
 script:
   - yarn
+
+deploy:
+  provider: npm
+  email: "szgabsz91@gmail.com"
+  api_key: $NPM_TOKEN
+  on:
+    tags: true
