@@ -1,0 +1,24 @@
+{
+  "name": "@szg/eslint-config",
+  "version": "1.0.0",
+  "description": "ESLint config for the @szg scoped packages",
+  "repository": "https://github.com/szgabsz91/eslint-config",
+  "author": "szgabsz91",
+  "license": "MIT",
+  "engineStrict": true,
+  "engines": {
+    "node": ">=12.8.1",
+    "yarn": ">=1.17.3"
+  },
+  "peerDependencies": {
+    "eslint": "6.2.0",
+    "prettier": "1.18.2"
+  },
+  "devDependencies": {
+    "eslint": "6.2.0",
+    "eslint-config-prettier": "6.0.0",
+    "eslint-plugin-angular": "4.0.1",
+    "eslint-plugin-prettier": "3.1.0",
+    "prettier": "1.18.2"
+  }
+}
